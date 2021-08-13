@@ -1,0 +1,14 @@
+{
+  "name": "kirsten_carter/portfolio",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Kristen Carter",
+      "email": "cart6278@gmail.com"
+    }
+  ],
+  "require": {
+  }
+}
